@@ -1,9 +1,9 @@
 
-package integratedca_ooc_la_db;
+package util;
 
 import java.util.Scanner;
 
-    public class IntegratedCA_OOC_LA_DB {
+    public class parser {
 
     public static void main(String[] args) {
     }
